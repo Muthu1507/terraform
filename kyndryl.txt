@@ -1,0 +1,28 @@
+Outlook login credentials:
+
+Username:Muthukumaran.M@kyndryl.com
+Password:Muthu@2000
+-----------------------------
+Slack Login:
+Username:Muthukumaran.M@kyndryl.com
+password:Muthukumar@1507
+
+------------------
+Ocean Id Login:
+
+Username:Muthukumaran.M@ocean.ibm.com
+Password:Muthukumar@2000
+-------------------------
+
+
+
+
+
+
+
+
+
+https://kyndryl-bcg-webapp.nwdc.apps.cirrus.ibm.com/ocean/tools/bcg/protect/BcgMain.wss
+*************************
+
+
